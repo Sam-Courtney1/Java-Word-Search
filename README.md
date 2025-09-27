@@ -1,6 +1,4 @@
-Java Project Semester 2
-
-Sam Courtney
+2022 semester 2 Java 
 
 Search Engine
 
